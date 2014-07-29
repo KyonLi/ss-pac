@@ -1,25 +1,19 @@
 ; Summary: Proxy Switchy! Exported Rule List
-; Date: 2014/7/28
+; Date: 2014/7/29
 ; Website: http://bit.ly/proxyswitchy
 
 #BEGIN
 
 [wildcard]
 *://*.appspot.com/*
+*://*.android.com/*
+*://*.gmail.com/*
+*://*.gmodules.com/*
+*://*.goo.gl/*
 *://*.google.cn/*
 *://*.google.com.hk/*
 *://*.google.com/*
-*://*.googletagservices.com/*
-*://*.googlesyndication.com/*
-*://*.googleadservices.com/*
-*://*.googleapis.com/*
-*://*.googletagmanager.com/*
-*://*.googlevideo.com/*
-*://*.googlesyndication.com/*
-*://*.googlevideo.com/*
-*://*.google-analytics.com/*
-*://*.googleusercontent.com/*
-*://*.googlecode.com/*
+*://*.google*.com/*
 *://*.apple.com/*
 *://*.apple.com.cn/*
 *://*.twitter.com/*
@@ -375,7 +369,6 @@
 *://about.me/*
 *://*.nytimes.com/*
 *://*.skype.com/*
-*://*.v2ex.com/*
 *://*.jetbrains.com/*
 *://xingongju.com/*
 *://*.gstatic.com/*
@@ -495,12 +488,10 @@
 *://quora.com/*
 *://swipejs.com/*
 *://*.adblockplus.org/*
-*://*.android.com/*
 *://*.aokp.co/*
 *://*.btdigg.org/*
 *://marketplace.firefox.com/*
 *://*.goagent.biz/*
-*://*.goo.gl/*
 *://*.konachan.com/*
 *://*.mediafire.com/*
 *://*.mega.co.nz/*
