@@ -379,8 +379,8 @@
 *://mitchmckenna.com/*
 *://*.screencast-o-matic.com/*
 *://*.uushare.com/*
-*://sourceforge.net/*
 *://*.sourceforge.net/*
+*://*.sf.net/*
 *://soft.macx.cn/*
 *://php.net/*
 *://*.php.net/*
@@ -497,8 +497,6 @@
 *://*.mega.co.nz/*
 *://*.projecth.us/*
 *://*.shadowsocks.org/*
-*://*.sourceforge.net/*
-*://*.sf.net/*
 *://*.torrentkitty.org/*
 *://*.yande.re/*
 *://*.t66y.com/*
