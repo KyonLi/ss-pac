@@ -61,6 +61,8 @@
 *://*.theqingyun.org/*
 *://*.reindeervpn.com/*
 *://*.sanywork.com/*
+*://*.nytimes.com/*
+*://*.bbc.co.uk/*
 
 [regexp]
 
