@@ -19,8 +19,7 @@
 *://*.youtube.com/*
 *://*.youtube*.com/*
 *://*.ytimg.com/*
-*://*.blogspot.com/*
-*://*.blogspot.no/*
+*://*.blogspot.*/*
 *://*.blogger.com/*
 *://*.ingress.com/*
 *://*.twitter.com/*
