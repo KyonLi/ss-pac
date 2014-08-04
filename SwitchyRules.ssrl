@@ -63,6 +63,7 @@
 *://*.sanywork.com/*
 *://*.nytimes.com/*
 *://*.bbc.co.uk/*
+*://*.cloudflare.com/*
 
 [regexp]
 
