@@ -34,6 +34,8 @@
 *://*.github.io/*
 *://*.githubusercontent.com/*
 *://*.dropbox*.com/*
+*://*.box.com/*
+*://*.boxcdn.net/*
 *://*.doubleclick.net/*
 *://*.bit.ly/*
 *://*.adblockplus.org/*
