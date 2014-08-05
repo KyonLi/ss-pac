@@ -68,6 +68,7 @@
 *://*.nytimes.com/*
 *://*.bbc.co.uk/*
 *://*.cloudflare.com/*
+*://*.nicovideo.jp/*
 
 [regexp]
 
