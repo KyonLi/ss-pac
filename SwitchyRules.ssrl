@@ -71,6 +71,7 @@
 *://*.cloudfront.net/*
 *://*.nicovideo.jp/*
 *://*.huhamhire.com/*
+*://*.fanyue.info/*
 
 [regexp]
 
