@@ -19,7 +19,7 @@
 *://*.youtube.com/*
 *://*.youtube*.com/*
 *://*.ytimg.com/*
-*://*.blogspot.com/*
+*://*.blogspot.*/*
 *://*.blogger.com/*
 *://*.ingress.com/*
 *://*.twitter.com/*
@@ -33,7 +33,12 @@
 *://*.github.com/*
 *://*.github.io/*
 *://*.githubusercontent.com/*
-*://*.dropbox.com/*
+*://*.dropbox*.com/*
+*://*.box.com/*
+*://*.box.net/*
+*://*.boxcloud.com/*
+*://*.boxcdn.net/*
+*://*.doubleclick.net/*
 *://*.bit.ly/*
 *://*.adblockplus.org/*
 *://*.btdigg.org/*
@@ -56,6 +61,17 @@
 *://*.wikipedia.org/*
 *://*.mega.co.nz/*
 *://*.openervpn.us/*
+*://*.yunti.me/*
+*://*.theqingyun.org/*
+*://*.reindeervpn.com/*
+*://*.sanywork.com/*
+*://*.nytimes.com/*
+*://*.bbc.co.uk/*
+*://*.cloudflare.com/*
+*://*.cloudfront.net/*
+*://*.nicovideo.jp/*
+*://*.huhamhire.com/*
+*://*.fanyue.info/*
 
 [regexp]
 
