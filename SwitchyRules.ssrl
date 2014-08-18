@@ -38,7 +38,6 @@
 *://*.box.net/*
 *://*.boxcloud.com/*
 *://*.boxcdn.net/*
-*://*.doubleclick.net/*
 *://*.bit.ly/*
 *://*.adblockplus.org/*
 *://*.btdigg.org/*
@@ -59,7 +58,6 @@
 *://*.panoramio.com/*
 *://*.flickr.com/*
 *://*.wikipedia.org/*
-*://*.mega.co.nz/*
 *://*.openervpn.us/*
 *://*.yunti.me/*
 *://*.theqingyun.org/*
@@ -67,8 +65,6 @@
 *://*.sanywork.com/*
 *://*.nytimes.com/*
 *://*.bbc.co.uk/*
-*://*.cloudflare.com/*
-*://*.cloudfront.net/*
 *://*.nicovideo.jp/*
 *://*.huhamhire.com/*
 *://*.fanyue.info/*
