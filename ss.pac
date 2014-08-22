@@ -840,6 +840,7 @@ var domains = {
   "photofocus.com": 1, 
   "laomiu.com": 1, 
   "songjianjun.com": 1, 
+  "genuitec.com": 1, 
   "monitorchina.org": 1, 
   "t66y.com": 1, 
   "files2me.com": 1, 
