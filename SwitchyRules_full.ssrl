@@ -1,5 +1,5 @@
 ; Summary: Proxy Switchy! Exported Rule List
-; Date: 2014/8/23
+; Date: 2014/8/25
 ; Website: http://bit.ly/proxyswitchy
 
 #BEGIN
@@ -384,6 +384,7 @@
 *://*.clb.org.hk/*
 *://*.clientsfromhell.net/*
 *://*.clipfish.de/*
+*://*.cloudflare.com/*
 *://*.cms.gov/*
 *://*.cmule.com/*
 *://*.cna.com.tw/*
