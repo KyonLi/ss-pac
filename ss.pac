@@ -574,7 +574,6 @@ var domains = {
   "pornvisit.com": 1, 
   "taiwannation.com.tw": 1, 
   "ifjc.org": 1, 
-  "if-not-true-then-false.com": 1, 
   "upload4u.info": 1, 
   "prosiben.de": 1, 
   "bayvoice.net": 1, 
@@ -700,6 +699,7 @@ var domains = {
   "lastfm.es": 1, 
   "hkfront.org": 1, 
   "pbxes.com": 1, 
+  "dnscrypt.org": 1, 
   "getfreedur.com": 1, 
   "bobulate.com": 1, 
   "sevenload.com": 1, 
@@ -1505,7 +1505,6 @@ var domains = {
   "dizhidizhi.com": 1, 
   "pbwiki.com": 1, 
   "ruyiseek.com": 1, 
-  "docstoc.com": 1, 
   "12vpn.com": 1, 
   "eltondisney.com": 1, 
   "free.fr": 1, 
@@ -2477,7 +2476,7 @@ function FindProxyForURL(url, host) {
     var pos = host.lastIndexOf('.');
     pos = host.lastIndexOf('.', pos - 1);
     while(1) {
-        if (pos == -1) {
+        if (pos <= 0) {
             if (hasOwnProperty.call(domains, host)) {
                 return proxy;
             } else {
