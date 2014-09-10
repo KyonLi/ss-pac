@@ -1,5 +1,5 @@
 ; Summary: Proxy Switchy! Exported Rule List
-; Date: 2014/9/2
+; Date: 2014/9/10
 ; Website: http://bit.ly/proxyswitchy
 
 #BEGIN
@@ -2405,6 +2405,8 @@
 *://*.xxxx.com.au/*
 *://*.xys.org/*
 *://*.xysblogs.org/*
+*://*.xyy69.com/*
+*://*.xyy69.info/*
 *://*.yahoo.co.jp/*
 *://*.yahoo.com/*
 *://*.yahoo.com.hk/*
