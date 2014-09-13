@@ -1,5 +1,5 @@
 ; Summary: Proxy Switchy! Exported Rule List
-; Date: 2014/9/10
+; Date: 2014/9/13
 ; Website: http://bit.ly/proxyswitchy
 
 #BEGIN
@@ -516,6 +516,7 @@
 *://*.dtiblog.com/*
 *://*.dtic.mil/*
 *://*.dtiserv2.com/*
+*://*.duckduckgo.com/*
 *://*.duckload.com/*
 *://*.duckmylife.com/*
 *://*.duihua.org/*
