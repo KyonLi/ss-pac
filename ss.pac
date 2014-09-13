@@ -749,6 +749,7 @@ var domains = {
   "yong.hu": 1, 
   "israbox.com": 1, 
   "iask.ca": 1, 
+  "duckduckgo.com": 1, 
   "riku.me": 1, 
   "prestige-av.com": 1, 
   "alwaysdata.com": 1, 
