@@ -989,6 +989,7 @@ var domains = {
   "cnd.org": 1, 
   "imageshack.us": 1, 
   "getjetso.com": 1, 
+  "pubu.com.tw": 1, 
   "freewallpaper4.me": 1, 
   "seesmic.com": 1, 
   "videomo.com": 1, 
