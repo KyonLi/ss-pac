@@ -1,5 +1,5 @@
 ; Summary: Proxy Switchy! Exported Rule List
-; Date: 2014/9/18
+; Date: 2014/9/20
 ; Website: http://bit.ly/proxyswitchy
 
 #BEGIN
@@ -626,6 +626,7 @@
 *://*.favstar.fm/*
 *://*.fawanghuihui.org/*
 *://*.faydao.com/*
+*://*.fb.com/*
 *://*.fb.me/*
 *://*.fbcdn.net/*
 *://*.fc2.com/*
@@ -732,6 +733,7 @@
 *://*.fzh999.net/*
 *://*.gabocorp.com/*
 *://*.galenwu.com/*
+*://*.game735.com/*
 *://*.gamebase.com.tw/*
 *://*.gamer.com.tw/*
 *://*.gamez.com.tw/*
