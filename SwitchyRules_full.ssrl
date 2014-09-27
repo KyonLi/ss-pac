@@ -1,5 +1,5 @@
 ; Summary: Proxy Switchy! Exported Rule List
-; Date: 2014/9/20
+; Date: 2014/9/27
 ; Website: http://bit.ly/proxyswitchy
 
 #BEGIN
@@ -1431,6 +1431,7 @@
 *://*.nytimes.com/*
 *://*.oauth.net/*
 *://*.observechina.net/*
+*://*.oclp.hk/*
 *://*.october-review.org/*
 *://*.offbeatchina.com/*
 *://*.ogaoga.org/*
