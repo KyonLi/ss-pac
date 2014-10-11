@@ -1,5 +1,5 @@
 ; Summary: Proxy Switchy! Exported Rule List
-; Date: 2014/10/7
+; Date: 2014/10/11
 ; Website: http://bit.ly/proxyswitchy
 
 #BEGIN
@@ -629,6 +629,7 @@
 *://*.fb.com/*
 *://*.fb.me/*
 *://*.fbcdn.net/*
+*://*.fbsbx.com/*
 *://*.fc2.com/*
 *://*.fc2blog.net/*
 *://*.fc2china.com/*
@@ -1050,6 +1051,7 @@
 *://*.itshidden.com/*
 *://*.itweet.net/*
 *://*.iu45.com/*
+*://*.ixquick.com/*
 *://*.izaobao.us/*
 *://*.izihost.org/*
 *://*.izles.net/*
@@ -1858,6 +1860,7 @@
 *://*.sstatic.net/*
 *://*.stackfile.com/*
 *://*.starp2p.com/*
+*://*.startpage.com/*
 *://*.state.gov/*
 *://*.state168.com/*
 *://*.staticflickr.com/*
