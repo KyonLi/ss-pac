@@ -2417,6 +2417,7 @@ var domains = {
   "msn.com.tw": 1, 
   "mingpao.com": 1, 
   "crd-net.org": 1, 
+  "steampowered.com": 1, 
   "hk": 1, 
   "googleapis.com": 1, 
   "ydy.com": 1, 
