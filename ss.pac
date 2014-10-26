@@ -155,6 +155,7 @@ var domains = {
   "backchina.com": 1, 
   "thespeeder.com": 1, 
   "tuidang.net": 1, 
+  "chapm25.com": 1, 
   "sinopitt.info": 1, 
   "mongodb.org": 1, 
   "orzistic.org": 1, 
