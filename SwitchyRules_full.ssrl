@@ -1,5 +1,5 @@
 ; Summary: Proxy Switchy! Exported Rule List
-; Date: 2014/10/11
+; Date: 2014/10/27
 ; Website: http://bit.ly/proxyswitchy
 
 #BEGIN
@@ -311,6 +311,7 @@
 *://*.chandoo.org/*
 *://*.change.org/*
 *://*.changp.com/*
+*://*.chapm25.com/*
 *://*.chaturbate.com/*
 *://*.chengmingmag.com/*
 *://*.chenguangcheng.com/*
@@ -1431,6 +1432,7 @@
 *://*.nyt.com/*
 *://*.nytco.com/*
 *://*.nytimes.com/*
+*://*.nytimg.com/*
 *://*.oauth.net/*
 *://*.observechina.net/*
 *://*.oclp.hk/*
