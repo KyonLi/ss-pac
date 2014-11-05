@@ -1401,6 +1401,7 @@ var domains = {
   "hdtvb.net": 1, 
   "shapeservices.com": 1, 
   "westernwolves.com": 1, 
+  "usus.cc": 1, 
   "psiphon.ca": 1, 
   "rthk.org.hk": 1, 
   "washeng.net": 1, 
