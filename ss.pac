@@ -1038,6 +1038,7 @@ var domains = {
   "plusbb.com": 1, 
   "tweetymail.com": 1, 
   "simplecd.org": 1, 
+  "sndcdn.com": 1, 
   "jbtalks.cc": 1, 
   "privatepaste.com": 1, 
   "lalulalu.com": 1, 
