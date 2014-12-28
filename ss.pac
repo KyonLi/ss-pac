@@ -794,6 +794,7 @@ var domains = {
   "scriptspot.com": 1, 
   "chenguangcheng.com": 1, 
   "karayou.com": 1, 
+  "dmcdn.net": 1, 
   "saiq.me": 1, 
   "heungkongdiscuss.com": 1, 
   "ggssl.com": 1, 
