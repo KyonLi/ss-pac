@@ -2142,7 +2142,6 @@ var domains = {
   "liuxiaotong.com": 1, 
   "blogs.com": 1, 
   "artsy.net": 1, 
-  "mashable.com": 1, 
   "axureformac.com": 1, 
   "64tianwang.com": 1, 
   "domain.club.tw": 1, 
