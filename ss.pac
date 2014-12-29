@@ -1733,6 +1733,7 @@ var domains = {
   "howtoforge.com": 1, 
   "fanqiangyakexi.net": 1, 
   "googlevideo.com": 1, 
+  "rightster.com": 1, 
   "torvpn.com": 1, 
   "qvodzy.org": 1, 
   "hacken.cc": 1, 
