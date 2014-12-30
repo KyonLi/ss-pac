@@ -2091,6 +2091,7 @@ var domains = {
   "gaymap.cc": 1, 
   "xinhuanet.org": 1, 
   "yorkbbs.ca": 1, 
+  "scribd.com": 1, 
   "taragana.com": 1, 
   "kl.am": 1, 
   "rti.org.tw": 1, 
