@@ -1559,6 +1559,7 @@ var domains = {
   "zattoo.com": 1, 
   "askynz.net": 1, 
   "zaobao.com.sg": 1, 
+  "deviantart.com": 1, 
   "heartyit.com": 1, 
   "qixianglu.cn": 1, 
   "bettween.com": 1, 
