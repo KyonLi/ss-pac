@@ -2353,6 +2353,7 @@ var domains = {
   "cdp2006.org": 1, 
   "xyy69.info": 1, 
   "youthnetradio.org": 1, 
+  "ftchinese.com": 1, 
   "forum4hk.com": 1, 
   "chinalawandpolicy.com": 1, 
   "civisec.org": 1, 
