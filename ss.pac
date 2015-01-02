@@ -819,6 +819,7 @@ var domains = {
   "chenguangcheng.com": 1, 
   "cdw.com": 1, 
   "dmcdn.net": 1, 
+  "devpn.com": 1, 
   "saiq.me": 1, 
   "heungkongdiscuss.com": 1, 
   "ggssl.com": 1, 
@@ -2589,6 +2590,7 @@ var domains = {
   "njactb.org": 1, 
   "openwebster.com": 1, 
   "darpa.mil": 1, 
+  "91porn.com": 1, 
   "wtfpeople.com": 1, 
   "1-apple.com.tw": 1
 };
