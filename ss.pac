@@ -1213,6 +1213,7 @@ var domains = {
   "chubun.com": 1, 
   "liuhanyu.com": 1, 
   "boxun.tv": 1, 
+  "ettoday.net": 1, 
   "xuzhiyong.net": 1, 
   "joeedelman.com": 1, 
   "dynawebinc.com": 1, 
