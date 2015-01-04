@@ -271,11 +271,14 @@ bx.tl
 byethost8.com
 c-est-simple.com
 c-spanvideo.org
+cacnw.com
 cactusvpn.com
 cafepress.com
+cahr.org.tw
 calameo.com
 calebelston.com
 cams.com
+cams.org.sg
 canadameet.com
 cantonese.asia
 canyu.org
@@ -312,7 +315,9 @@ cenci.tk
 cenews.eu
 centralnation.com
 centurys.net
+cfhks.org.hk
 cftfc.com
+cgdepot.org
 chandoo.org
 change.org
 changp.com
@@ -323,6 +328,7 @@ chenguangcheng.com
 chenpokong.com
 cherrysave.com
 chevronwp7.com
+chicagoncmtv.com
 china-week.com
 china101.com
 china21.com
@@ -374,6 +380,7 @@ chosun.com
 chrispederick.com
 chrispederick.net
 christianstudy.com
+christiantimes.org.hk
 christusrex.org
 chrlawyers.hk
 chrlcg-hk.org
@@ -419,6 +426,7 @@ comefromchina.com
 compileheart.com
 compython.net
 conoyo.com
+contactmagazine.net
 cookingtothegoodlife.com
 coolaler.com
 coolder.com
@@ -761,6 +769,7 @@ furl.net
 futurechinaforum.org
 futureme.org
 futuremessage.org
+fuyin.net
 fw.cm
 fxnetworks.com
 fzh999.com
@@ -958,6 +967,7 @@ hk32168.com
 hkatvnews.com
 hkbc.net
 hkbf.org
+hkchurch.org
 hkdailynews.com.hk
 hkday.net
 hkej.com
@@ -972,6 +982,7 @@ hkjp.org
 hkptu.org
 hkreporter.com
 hku.hk
+hkwcc.org.hk
 hkzone.org
 hloli.net
 hnjhj.com
@@ -1247,6 +1258,7 @@ livingonline.us
 livingstream.com
 lizhizhuangbi.com
 lkcn.net
+localpresshk.com
 lockdown.com
 lockestek.com
 logbot.net
@@ -1278,6 +1290,7 @@ mad-ar.ch
 madmenunbuttoned.com
 maiio.net
 mail-archive.com
+maiplus.com
 makemymood.com
 malaysiakini.com
 marc.info
@@ -1471,6 +1484,7 @@ nintendium.com
 njactb.org
 njuice.com
 nlfreevpn.com
+nobel.se
 nobelprize.org
 nobodycanstop.us
 nodesnoop.com
@@ -1693,6 +1707,7 @@ python.com
 python.com.tw
 qanote.com
 qi-gong.me
+qidian.ca
 qienkuen.org
 qiwen.lu
 qixianglu.cn
@@ -2084,6 +2099,7 @@ tibetjustice.org
 tibetoffice.org
 tibetonline.com
 tibetonline.tv
+tibetsun.com
 tibetwrites.org
 tidyread.com
 tiffanyarment.com
@@ -2168,7 +2184,7 @@ tvboxnow.com
 tvider.com
 tvunetworks.com
 tw
-twa.sh
+tw-npo.org
 twapperkeeper.com
 twaud.io
 twbbs.net.tw
@@ -2317,6 +2333,8 @@ vcfbuilder.org
 veempiire.com
 vegorpedersen.com
 velkaepocha.sk
+venbbs.com
+venchina.com
 ventureswell.com
 veoh.com
 verizon.net
@@ -2374,6 +2392,7 @@ waqn.com
 warehouse333.com
 washeng.net
 wattpad.com
+wdf5.com
 wearn.com
 web2project.net
 webbang.net
@@ -2501,6 +2520,7 @@ xinhuanet.org
 xinmiao.com.hk
 xinsheng.net
 xinshijue.com
+xinyubbs.net
 xizang-zhiye.org
 xjp.cc
 xml-training-guide.com
