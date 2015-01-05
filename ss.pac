@@ -1964,6 +1964,7 @@ var domains = {
   "zinio.com": 1, 
   "snaptu.com": 1, 
   "fc2china.com": 1, 
+  "mrdoob.com": 1, 
   "sendoid.com": 1, 
   "giganews.com": 1, 
   "huaglad.com": 1, 
