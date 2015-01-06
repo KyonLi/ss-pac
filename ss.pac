@@ -1135,6 +1135,7 @@ var domains = {
   "xcafe.in": 1, 
   "tibet.org.tw": 1, 
   "md-t.org": 1, 
+  "torrentproject.se": 1, 
   "zhongguotese.net": 1, 
   "msguancha.com": 1, 
   "mypopescu.com": 1, 
