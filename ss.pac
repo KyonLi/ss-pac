@@ -1295,6 +1295,7 @@ var domains = {
   "facebook.com": 1, 
   "space-scape.com": 1, 
   "dadi360.com": 1, 
+  "thechinastory.org": 1, 
   "tomsc.com": 1, 
   "4sq.com": 1, 
   "babynet.com.hk": 1, 
