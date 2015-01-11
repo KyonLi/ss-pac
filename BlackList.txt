@@ -66,6 +66,7 @@ af.mil
 aiph.net
 aisex.com
 ait.org.tw
+aiweiwei.com
 aiweiweiblog.com
 ajaxplorer.info
 ajsands.com
@@ -109,6 +110,7 @@ anobii.com
 anontext.com
 anonymizer.com
 answering-islam.org
+antd.org
 anthonycalzadilla.com
 antiwave.net
 anyu.org
@@ -174,6 +176,7 @@ bbsland.com
 bcc.com.tw
 bcchinese.net
 bebo.com
+beeg.com
 beijing1989.com
 beijingspring.com
 benjaminste.in
@@ -185,6 +188,7 @@ betfair.com
 bettween.com
 betvictor.com
 bewww.net
+beyondfirewall.com
 bfnn.org
 bfsh.hk
 biantailajiao.com
@@ -231,6 +235,7 @@ boardreader.com
 bobulate.com
 bonbonme.com
 bonjourlesgeeks.com
+boobstagram.com
 books.com.tw
 bookshelfporn.com
 bot.nu
@@ -244,6 +249,7 @@ boxcloud.com
 boxun.com
 boxun.tv
 boxunblog.com
+boxunclub.com
 br.st
 bralio.com
 branch.com
@@ -394,6 +400,7 @@ citizensradio.org
 city9x.com
 civicparty.hk
 civilhrfront.org
+civilmedia.tw
 civisec.org
 cjb.net
 ck101.com
@@ -404,7 +411,6 @@ clientsfromhell.net
 clipfish.de
 cmoinc.org
 cms.gov
-cmule.com
 cna.com.tw
 cnavista.com.tw
 cnd.org
@@ -494,6 +500,7 @@ designerol.com
 deutsche-welle.de
 dev102.com
 deviantart.com
+deviantart.net
 devio.us
 devpn.com
 dfanning.com
@@ -624,12 +631,14 @@ eventful.com
 everyday-carry.com
 exblog.co.jp
 exblog.jp
+excite.co.jp
 expatshield.com
 exploader.net
 expofutures.com
 extremetube.com
 eyespirit.info
 eyevio.jp
+eyny.com
 ezpc.tk
 ezpeer.com
 facebook.com
@@ -656,7 +665,6 @@ fanswong.com
 fanyue.info
 fapdu.com
 farwestchina.com
-fastly.net
 fastpic.ru
 faststone.org
 favorious.com
@@ -673,12 +681,10 @@ fc2blog.net
 fc2china.com
 fdbox.com
 fdc89.jp
-feedbooks.mobi
 feedburner.com
 feedzshare.com
 feelssh.com
 feer.com
-felixcat.net
 feministteacher.com
 fengzhenghu.com
 ff.im
@@ -867,6 +873,7 @@ google.com.hk
 googleadservices.com
 googleapis.com
 googlecode.com
+googledomains.com
 googledrive.com
 googleearth.com
 googlehosted.com
@@ -890,6 +897,7 @@ gpass1.com
 gradconnection.com
 grandtrial.org
 graphis.ne.jp
+gravatar.com
 graylog2.org
 great-firewall.com
 great-roc.org
@@ -1006,6 +1014,7 @@ hrw.org
 hsjp.net
 hsselite.com
 ht.ly
+htkou.net
 htl.li
 htmldog.com
 htxt.it
@@ -1018,6 +1027,7 @@ huaxin.ph
 hudatoriq.web.id
 hugoroy.eu
 huhaitai.com
+huhamhire.com
 hulu.com
 huluim.com
 hung-ya.com
@@ -1042,6 +1052,7 @@ icerocket.com
 icij.org
 icl-fi.org
 iconpaper.org
+icu-project.org
 idaiwan.com
 idemocracy.asia
 identi.ca
@@ -1094,6 +1105,7 @@ internetfreedom.org
 internetpopculture.com
 inxian.com
 iphone-dev.org
+iphone4hongkong.com
 iphonehacks.com
 iphonix.fr
 ipicture.ru
@@ -1120,6 +1132,7 @@ ithome.com.tw
 itshidden.com
 itweet.net
 iu45.com
+iverycd.com
 ixquick.com
 izaobao.us
 izihost.org
@@ -1233,6 +1246,7 @@ lightbox.com
 limiao.net
 line.me
 linglingfa.com
+lingvodics.com
 linkideo.com
 linksalpha.com
 linpie.com
@@ -1280,6 +1294,7 @@ lsforum.net
 lsm.org
 lsmchinese.org
 lsmkorean.org
+lsxszzg.com
 lupm.org
 lushstories.com
 lvhai.org
@@ -1394,6 +1409,7 @@ mp3ye.eu
 mpettis.com
 mpfinance.com
 mpinews.com
+mrdoob.com
 mrtweet.com
 msguancha.com
 msn.com.tw
@@ -1408,6 +1424,7 @@ muzi.com
 muzi.net
 muzu.tv
 mx981.com
+my-addr.com
 my-proxy.com
 my903.com
 myactimes.com
@@ -1615,6 +1632,7 @@ pentalogic.net
 penthouse.com
 peopo.org
 percy.in
+perfectgirls.net
 perfectvpn.net
 perfspot.com
 perlhowto.com
@@ -1650,6 +1668,7 @@ podictionary.com
 pokerstars.com
 pokerstrategy.com
 politicalchina.org
+popvote.hk
 popyard.com
 popyard.org
 porn.com
@@ -1733,6 +1752,7 @@ rangzen.org
 ranxiang.com
 ranyunfei.com
 rapbull.net
+rapidgator.net
 rapidshare8.com
 rapidsharedata.com
 rcinet.ca
@@ -1810,6 +1830,7 @@ savetibet.org
 savetibet.ru
 savevid.com
 say2.info
+sciencemag.org
 scmp.com
 scmpchinese.com
 scribd.com
@@ -1867,6 +1888,8 @@ shopping.com
 showtime.jp
 shvoong.com
 shwchurch3.com
+sidelinesnews.com
+sidelinessportseatery.com
 simplecd.org
 simpleproductivityblog.com
 sina.com
@@ -2050,6 +2073,7 @@ thebcomplex.com
 theblemish.com
 thebodyshop-usa.com
 thechinabeat.org
+thechinastory.org
 thedailywh.at
 thedieline.com
 thedw.us
@@ -2057,6 +2081,7 @@ thefacebook.com
 thegatesnotes.com
 thegioitinhoc.vn
 theguardian.co
+thehots.info
 thehousenews.com
 thehun.net
 thehungrydudes.com
@@ -2072,6 +2097,7 @@ thespeeder.com
 thetibetpost.com
 thetrotskymovie.com
 thevivekspot.com
+thewgo.org
 thisav.com
 thisiswhyyouarefat.com
 thkphoto.com
@@ -2135,6 +2161,7 @@ topsy.com
 tora.to
 torproject.org
 torrentcrazy.com
+torrentproject.se
 torvpn.com
 touch99.com
 toutfr.com
@@ -2296,6 +2323,7 @@ unpo.org
 uocn.org
 updatestar.com
 upload4u.info
+uploaded.net
 uploaded.to
 uploadstation.com
 urbanoutfitters.com
@@ -2371,6 +2399,7 @@ vpngate.net
 vpnpop.com
 vpnpronet.com
 vtunnel.com
+w.org
 w3.org
 waffle1999.com
 wahas.com
@@ -2391,6 +2420,7 @@ wapedia.mobi
 waqn.com
 warehouse333.com
 washeng.net
+watchmygf.net
 wattpad.com
 wdf5.com
 wearn.com
@@ -2434,6 +2464,7 @@ wforum.com
 whatblocked.com
 whereiswerner.com
 whippedass.com
+who.is
 whydidyoubuymethat.com
 whylover.com
 whyx.org
@@ -2459,6 +2490,7 @@ windowsphoneme.com
 winwhispers.info
 wiredbytes.com
 wiredpen.com
+wireshark.org
 wisevid.com
 witnessleeteaching.com
 witopia.net
@@ -2477,18 +2509,22 @@ worldcat.org
 worldjournal.com
 worstthingieverate.com
 wow-life.net
+wowlegacy.ml
 woxinghuiguo.com
 wozy.in
+wp.com
 wpoforum.com
 wqlhw.com
 wqyd.org
 wrchina.org
 wretch.cc
 wsj.com
+wsj.net
 wtfpeople.com
 wuala.com
 wuerkaixi.com
 wufi.org.tw
+wuguoguang.com
 wujie.net
 wujieliulan.com
 wukangrui.net
