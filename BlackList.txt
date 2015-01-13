@@ -68,14 +68,12 @@ aisex.com
 ait.org.tw
 aiweiwei.com
 aiweiweiblog.com
-ajaxplorer.info
 ajsands.com
 akamaihd.net
 akiba-online.com
 al-qimmah.net
 alabout.com
 alasbarricadas.org
-alexdong.com
 alexlur.org
 aliengu.com
 alkasir.com
@@ -102,6 +100,7 @@ amoiist.com
 amzs.me
 analyze-v.com
 anchorfree.com
+ancsconf.org
 andfaraway.net
 android.com
 angularjs.org
@@ -159,6 +158,7 @@ baby-kingdom.com
 babynet.com.hk
 backchina.com
 backpackers.com.tw
+backtotiananmen.com
 badassjs.com
 badoo.com
 baidu.jp
@@ -1038,6 +1038,7 @@ hutong9.net
 hwinfo.com
 hyperrate.com
 hypeshell.com
+i-cable.com
 i1.hk
 i2p2.de
 i2runner.com
@@ -1332,7 +1333,6 @@ md-t.org
 mediafire.com
 meetup.com
 mefeedia.com
-megabyet.net
 megaporn.com
 megarotic.com
 megavideo.com
@@ -1340,10 +1340,12 @@ megurineluka.com
 meirixiaochao.com
 melon-peach.com
 memedia.cn
+memehk.com
 memrijttm.org
 merit-times.com.tw
 mesotw.com
 metacafe.com
+metarthunter.com
 meteorshowersonline.com
 metrolife.ca
 mgoon.com
@@ -1552,6 +1554,7 @@ on.cc
 onlylady.cn
 onmoon.com
 onmoon.net
+ontrac.com
 oopsforum.com
 open.com.hk
 opendemocracy.net
@@ -1683,6 +1686,7 @@ porntube.com
 pornvisit.com
 pose.com
 post.ly
+post852.com
 postadult.com
 posterous.com
 power.com
@@ -1997,6 +2001,7 @@ stonegames.net
 stoneip.info
 stoptibetcrisis.net
 storagenewsletter.com
+storify.com
 stoweboyd.com
 streamingthe.net
 streetvoice.com
@@ -2010,7 +2015,6 @@ summify.com
 sun1911.com
 suoluo.org
 supertweet.net
-support
 surfeasy.com.au
 svwind.com
 sweux.com
@@ -2098,6 +2102,7 @@ thetibetpost.com
 thetrotskymovie.com
 thevivekspot.com
 thewgo.org
+thinkingtaiwan.com
 thisav.com
 thisiswhyyouarefat.com
 thkphoto.com
@@ -2379,6 +2384,7 @@ vimgolf.com
 vimperator.org
 vincnd.com
 vinniev.com
+vjmedia.com.hk
 vllcs.org
 vmixcore.com
 voa.mobi
