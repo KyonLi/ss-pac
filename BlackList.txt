@@ -7,6 +7,7 @@
 12vpn.com
 141hongkong.com
 173ng.com
+17t17p.com
 1984bbs.com
 1984bbs.org
 1bao.org
@@ -15,6 +16,7 @@
 2-hand.info
 2000fun.com
 2008xianzhang.info
+213.so
 21andy.com
 24smile.org
 2shared.com
@@ -31,7 +33,6 @@
 51.ca
 5i01.com
 5maodang.com
-6-4.net
 64tianwang.com
 64wiki.com
 666kb.com
@@ -82,7 +83,6 @@ allaboutalpha.com
 allgirlsallowed.org
 alliance.org.hk
 allinfa.com
-allinfo.com
 allmovie.com
 alternate-tools.com
 altrec.com
@@ -97,7 +97,6 @@ amiblockedornot.com
 amnesty.org
 amnestyusa.org
 amoiist.com
-amzs.me
 analyze-v.com
 anchorfree.com
 ancsconf.org
@@ -193,6 +192,7 @@ bfnn.org
 bfsh.hk
 biantailajiao.com
 biantailajiao.in
+bic2011.org
 bigfools.com
 bignews.org
 bigsound.org
@@ -257,6 +257,7 @@ brandonhutchinson.com
 braumeister.org
 break.com
 breakingtweets.com
+breakwall.net
 briefdream.com
 brightkite.com
 brizzly.com
@@ -268,6 +269,7 @@ budaedu.org
 bugclub.org
 bullog.org
 bullogger.com
+businessinsider.com.au
 businesstimes.com.cn
 businessweek.com
 buugaa.com
@@ -433,6 +435,7 @@ compileheart.com
 compython.net
 conoyo.com
 contactmagazine.net
+convio.net
 cookingtothegoodlife.com
 coolaler.com
 coolder.com
@@ -448,6 +451,7 @@ creaders.net
 crossthewall.net
 csdparty.com
 csuchen.de
+ctfriend.net
 cts.com.tw
 cubicle17.com
 cuhkacs.org
@@ -587,6 +591,7 @@ ebookee.com
 echofon.com
 ecministry.net
 ecstart.com
+edgecastcdn.net
 edicypages.com
 edoors.com
 edubridge.com
@@ -649,6 +654,7 @@ faiththedog.info
 fakku.net
 falsefire.com
 falunart.org
+falunasia.info
 falundafa.org
 falundafamuseum.org
 falunhr.org
@@ -997,10 +1003,11 @@ hnjhj.com
 hola.com
 holyspiritspeaks.org
 homeservershow.com
+honeynet.org
 hongmeimei.com
 hongzhi.li
 hootsuite.com
-hotfile.com
+hopto.org
 hotpot.hk
 hotpotato.com
 hotshame.com
@@ -1358,6 +1365,8 @@ middle-way.net
 mihk.hk
 mihua.org
 mimivip.com
+minghui-a.org
+minghui-b.org
 minghui-school.org
 minghui.org
 mingjinglishi.com
@@ -1373,6 +1382,7 @@ mingpaovan.com
 minimalmac.com
 mininova.org
 minzhuhua.net
+minzhuzhanxian.com
 minzhuzhongguo.org
 miroguide.com
 mirrorbooks.com
@@ -1457,6 +1467,7 @@ natado.com
 navicat.com
 navigeaters.com
 navy.mil
+nbc.com
 nccwatch.org.tw
 nch.com.tw
 ncn.org
@@ -1765,6 +1776,7 @@ read100.com
 readingtimes.com.tw
 readmoo.com
 realraptalk.com
+recaptcha.net
 recordhistory.org
 redchinacn.org
 redtube.com
@@ -1866,6 +1878,7 @@ sexhu.com
 sexhuang.com
 sexinsex.net
 sfileydy.com
+sftuk.org
 shadow.ma
 shadowsocks.org
 shahamat-english.com
@@ -2007,6 +2020,7 @@ streamingthe.net
 streetvoice.com
 strongvpn.com
 student.tw
+studentsforafreetibet.org
 stuffimreading.com
 stuffimreading.net
 stupidvideos.com
@@ -2045,6 +2059,7 @@ taiwankiss.com
 taiwannation.com
 taiwannation.com.tw
 taiwannews.com.tw
+taiwantp.net
 taiwantt.org.tw
 taiwanus.net
 taiwanyes.com
@@ -2138,7 +2153,6 @@ time.com
 tiney.com
 tinychat.com
 tinypaste.com
-tiscali.it
 tistory.com
 tjholowaychuk.com
 tkcs-collins.com
@@ -2327,6 +2341,7 @@ unknownspace.org
 unpo.org
 uocn.org
 updatestar.com
+upholdjustice.org
 upload4u.info
 uploaded.net
 uploaded.to
@@ -2343,11 +2358,13 @@ usfk.mil
 usgs.gov
 usmc.mil
 ustream.tv
+ustwrap.info
 usus.cc
 utom.us
 uushare.com
 uwants.com
 uwants.net
+uyghuramerican.org
 uyghurcongress.org
 uygur.org
 v-state.org
@@ -2384,6 +2401,7 @@ vimgolf.com
 vimperator.org
 vincnd.com
 vinniev.com
+visiontimes.com
 vjmedia.com.hk
 vllcs.org
 vmixcore.com
@@ -2425,6 +2443,7 @@ want-daily.com
 wapedia.mobi
 waqn.com
 warehouse333.com
+waselpro.com
 washeng.net
 watchmygf.net
 wattpad.com
@@ -2613,6 +2632,7 @@ youmaker.com
 youpai.org
 youporn.com
 your-freedom.net
+yourepeat.com
 yousendit.com
 youthbao.com
 youthnetradio.org
