@@ -2175,6 +2175,7 @@ var domains = {
   "guancha.org": 1, 
   "chinayuanmin.org": 1, 
   "nga.mil": 1, 
+  "barenakedislam.com": 1, 
   "my903.com": 1, 
   "archive.org": 1, 
   "tamiaode.tk": 1, 
