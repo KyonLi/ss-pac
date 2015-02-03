@@ -1491,7 +1491,6 @@ var domains = {
   "shkspr.mobi": 1, 
   "politicalchina.org": 1, 
   "ddc.com.tw": 1, 
-  "thepiratebay.se": 1, 
   "linuxreviews.org": 1, 
   "cdp1998.org": 1, 
   "twisternow.com": 1, 
