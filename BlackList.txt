@@ -1002,6 +1002,7 @@ hkzone.org
 hloli.net
 hnjhj.com
 hola.com
+hola.org
 holyspiritspeaks.org
 homeservershow.com
 honeynet.org
@@ -1464,6 +1465,7 @@ nanyang.com
 nanyangpost.com
 nanzao.com
 naol.ca
+nasa.gov
 natado.com
 navicat.com
 navigeaters.com
@@ -2109,7 +2111,6 @@ theinternetwishlist.com
 thelifeyoucansave.com
 thelius.org
 thepiratebay.org
-thepiratebay.se
 theqii.info
 thereallove.kr
 thesartorialist.com
@@ -2369,6 +2370,7 @@ uyghuramerican.org
 uyghurcongress.org
 uygur.org
 v-state.org
+v2ex.com
 v70.us
 v7976888.info
 vaayoo.com
