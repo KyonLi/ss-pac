@@ -534,7 +534,6 @@ var domains = {
   "hikinggfw.org": 1, 
   "qoos.com": 1, 
   "target.com": 1, 
-  "waqn.com": 1, 
   "chinarightsia.org": 1, 
   "guomin.us": 1, 
   "cyberghostvpn.com": 1, 
