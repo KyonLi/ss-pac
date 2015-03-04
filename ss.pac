@@ -1362,6 +1362,7 @@ var domains = {
   "djangosnippets.org": 1, 
   "hasaowall.com": 1, 
   "startpage.com": 1, 
+  "nyaa.se": 1, 
   "tweetwally.com": 1, 
   "pokerstrategy.com": 1, 
   "xing.com": 1, 
