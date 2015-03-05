@@ -2020,6 +2020,7 @@ var domains = {
   "youthwant.com.tw": 1, 
   "eventful.com": 1, 
   "yeeyi.com": 1, 
+  "yibada.com": 1, 
   "istef.info": 1, 
   "playboy.com": 1, 
   "youjizz.com": 1, 
