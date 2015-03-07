@@ -1084,6 +1084,7 @@ var domains = {
   "epochtimes.se": 1, 
   "tokyo-hot.com": 1, 
   "asdfg.jp": 1, 
+  "wnacg.com": 1, 
   "cnd.org": 1, 
   "imageshack.us": 1, 
   "getjetso.com": 1, 
