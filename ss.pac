@@ -2378,6 +2378,7 @@ var domains = {
   "idemocracy.asia": 1, 
   "chinainperspective.org": 1, 
   "soundofhope.org": 1, 
+  "cattt.com": 1, 
   "toonel.net": 1, 
   "city9x.com": 1, 
   "ufreevpn.com": 1, 
