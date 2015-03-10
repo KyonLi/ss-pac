@@ -474,6 +474,7 @@ var domains = {
   "myfreshnet.com": 1, 
   "plays.com.tw": 1, 
   "journalofdemocracy.org": 1, 
+  "destroy-china.jp": 1, 
   "cookingtothegoodlife.com": 1, 
   "taiwandaily.net": 1, 
   "bloomberg.de": 1, 
