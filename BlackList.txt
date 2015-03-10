@@ -147,6 +147,7 @@ atj.org.tw
 atlaspost.com
 atnext.com
 avaaz.org
+avast.com
 avdb.in
 avidemux.org
 avoision.com
@@ -300,6 +301,7 @@ catch22.net
 catfightpayperview.xxx
 catholic.org.hk
 catholic.org.tw
+cattt.com
 cbsnews.com
 ccavtop10.com
 ccdtr.org
@@ -386,8 +388,6 @@ chinesepen.org
 chinesetalks.net
 chingcheong.com
 chosun.com
-chrispederick.com
-chrispederick.net
 christianstudy.com
 christiantimes.org.hk
 christusrex.org
@@ -453,6 +453,7 @@ crossthewall.net
 csdparty.com
 csuchen.de
 ctfriend.net
+cthlo.github.io
 cts.com.tw
 cubicle17.com
 cuhkacs.org
@@ -755,7 +756,9 @@ freeopenvpn.com
 freeoz.org
 freerk.com
 freessh.us
+freetibet.net
 freetibet.org
+freetibetanheroes.org
 freevpn.nl
 freewallpaper4.me
 freewebs.com
@@ -1160,7 +1163,6 @@ jiaoyou8.com
 jiehua.cz
 jiepang.com
 jieshibaobao.com
-jimoparty.com
 jinbushe.org
 jingpin.org
 jinhai.de
@@ -1525,6 +1527,7 @@ nokogiri.org
 nokola.com
 noobbox.com
 novelasia.com
+now.com
 nownews.com
 nowtorrents.com
 noypf.com
@@ -1542,6 +1545,7 @@ nurgo-software.com
 nuvid.com
 nuzcom.com
 nvquan.org
+nyaa.se
 nydus.ca
 nysingtao.com
 nyt.com
@@ -1621,6 +1625,7 @@ paperb.us
 parade.com
 parislemon.com
 parkansky.com
+passiontimes.hk
 pastebin.com
 pastie.org
 path.com
@@ -1673,6 +1678,7 @@ pixnet.net
 pk.com
 placemix.com
 playboy.com
+playpcesor.com
 plays.com.tw
 plixi.com
 plm.org.hk
@@ -1926,6 +1932,7 @@ sinomontreal.ca
 sinonet.ca
 sinopitt.info
 sinoquebec.com
+sipml5.org
 sis.xxx
 sis001.com
 sis001.us
@@ -2115,6 +2122,7 @@ theqii.info
 thereallove.kr
 thesartorialist.com
 thespeeder.com
+thestandnews.com
 thetibetpost.com
 thetrotskymovie.com
 thevivekspot.com
@@ -2138,6 +2146,7 @@ tianzhu.org
 tibet.at
 tibet.com
 tibet.net
+tibet.org
 tibet.org.tw
 tibetalk.com
 tibetanyouthcongress.org
@@ -2444,7 +2453,6 @@ wangruoshui.net
 wangruowang.org
 want-daily.com
 wapedia.mobi
-waqn.com
 warehouse333.com
 waselpro.com
 washeng.net
@@ -2522,6 +2530,7 @@ wireshark.org
 wisevid.com
 witnessleeteaching.com
 witopia.net
+wnacg.com
 wo.tc
 woeser.com
 woesermiddle-way.net
@@ -2623,6 +2632,7 @@ yegle.net
 yfrog.com
 yhcw.net
 yi.org
+yibada.com
 yidio.com
 yilubbs.com
 yimg.com
