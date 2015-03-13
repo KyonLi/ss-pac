@@ -1723,6 +1723,7 @@ var domains = {
   "pentalogic.net": 1, 
   "wan-press.org": 1, 
   "hudatoriq.web.id": 1, 
+  "gigacircle.com": 1, 
   "url.com.tw": 1, 
   "sesawe.net": 1, 
   "duihua.org": 1, 
