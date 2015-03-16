@@ -1399,6 +1399,7 @@ var domains = {
   "wenyunchao.com": 1, 
   "travelinlocal.com": 1, 
   "thetibetpost.com": 1, 
+  "softlayer.net": 1, 
   "xyy69.com": 1, 
   "szbbs.net": 1, 
   "free-hada-now.org": 1, 
