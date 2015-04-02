@@ -2533,6 +2533,7 @@ var domains = {
   "epochweekly.com": 1, 
   "btdigg.org": 1, 
   "free-gate.org": 1, 
+  "javbus.com": 1, 
   "taup.net": 1, 
   "freelotto.com": 1, 
   "xinyubbs.net": 1, 
