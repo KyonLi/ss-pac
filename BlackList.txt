@@ -1,6 +1,7 @@
 0rz.tw
 0to255.com
 1-apple.com.tw
+10conditionsoflove.com
 10musume.com
 123rf.com
 12bet.com
@@ -25,6 +26,7 @@
 32red.com
 365singles.com.ar
 36rain.com
+3boys2girls.com
 4bluestones.biz
 4chan.org
 4shared.com
@@ -64,6 +66,7 @@ advanscene.com
 advertfan.com
 aenhancers.com
 af.mil
+agoogleaday.com
 aiph.net
 aisex.com
 ait.org.tw
@@ -134,11 +137,13 @@ asahichinese.com
 asdfg.jp
 asiaharvest.org
 asianews.it
+asianfreeforum.com
 asianwomensfilm.de
 askstudent.com
 askynz.net
 assembla.com
 astonmartinnews.com
+astrill.com
 atc.org.au
 atchinese.com
 atebits.com
@@ -149,6 +154,7 @@ atnext.com
 avaaz.org
 avast.com
 avdb.in
+avdb.tv
 avidemux.org
 avoision.com
 awardwinningfjords.com
@@ -238,6 +244,7 @@ bobulate.com
 bonbonme.com
 bonjourlesgeeks.com
 boobstagram.com
+book.com.tw
 books.com.tw
 bookshelfporn.com
 bot.nu
@@ -275,6 +282,7 @@ businessinsider.com.au
 businesstimes.com.cn
 businessweek.com
 buugaa.com
+buzzhand.com
 buzzurl.jp
 bwsj.hk
 bx.tl
@@ -339,6 +347,7 @@ chenguangcheng.com
 chenpokong.com
 cherrysave.com
 chevronwp7.com
+chhongbi.org
 chicagoncmtv.com
 china-week.com
 china101.com
@@ -395,6 +404,9 @@ chrlawyers.hk
 chrlcg-hk.org
 chrome.com
 chromeadblock.com
+chromeexperiments.com
+chromercise.com
+chromium.org
 chubun.com
 chuizi.net
 circlethebayfortibet.org
@@ -423,6 +435,7 @@ cnyes.com
 co.hk
 co.tv
 co.uk
+cochina.co
 cochina.org
 code1984.com
 codeboxapp.com
@@ -461,6 +474,7 @@ cuihua.org
 cuiweiping.net
 culture.tw
 curvefish.com
+cw.com.tw
 cyberctm.com
 cyberghostvpn.com
 cynscribe.com
@@ -486,6 +500,7 @@ danke4china.net
 danwei.org
 daolan.net
 darpa.mil
+data-vocabulary.org
 date.fm
 davidslog.com
 davidziegler.net
@@ -503,6 +518,7 @@ democrats.org
 derekhsu.homeip.net
 desc.se
 designerol.com
+destroy-china.jp
 deutsche-welle.de
 dev102.com
 deviantart.com
@@ -517,6 +533,7 @@ digitalnomadsproject.org
 diigo.com
 dipity.com
 directcreative.com
+discogs.com
 discuss.com.hk
 disp.cc
 dit-inc.us
@@ -527,6 +544,7 @@ dlsite.com
 dmcdn.net
 dns2go.com
 dnscrypt.org
+dnssec.net
 dojin.com
 dok-forum.net
 dolc.de
@@ -587,6 +605,9 @@ e-spacy.com
 e-traderland.net
 e123.hk
 eamonnbrennan.com
+eastturkestan.com
+eastturkistan-gov.org
+eastturkistangovernmentinexile.us
 easyweb.hk
 ebookbrowse.com
 ebookee.com
@@ -630,6 +651,7 @@ erepublik.com
 erights.net
 eriversoft.com
 ernestmandel.org
+etaa.org.au
 etaiwannews.com
 etizer.org
 ettoday.net
@@ -650,6 +672,7 @@ ezpc.tk
 ezpeer.com
 facebook.com
 facebook.net
+facebookquotes4u.com
 facesofnyfw.com
 fail.hk
 faiththedog.info
@@ -675,7 +698,6 @@ fapdu.com
 farwestchina.com
 fastpic.ru
 faststone.org
-favorious.com
 favotter.net
 favstar.fm
 fawanghuihui.org
@@ -699,12 +721,12 @@ ff.im
 fflick.com
 fgmtv.net
 fgmtv.org
-filefactory.com
 files2me.com
 fileserve.com
 fillthesquare.org
 finalion.jp
 findbook.tw
+fingerdaily.com
 finler.net
 fireofliberty.org
 firstfivefollowers.com
@@ -744,6 +766,7 @@ freealim.com
 freebearblog.org
 freechal.com
 freedomhouse.org
+freeforums.org
 freegao.com
 freelotto.com
 freeman2.com
@@ -842,11 +865,13 @@ ghost.org
 ghostery.com
 ghut.org
 giga-web.jp
+gigacircle.com
 giganews.com
 gigporno.ru
 gimpshop.com
 girlbanker.com
 git-scm.com
+gitbooks.io
 github.com
 github.io
 githubusercontent.com
@@ -864,6 +889,7 @@ gnci.org.hk
 goagent.biz
 goagentplus.com
 godfootsteps.org
+gokbayrak.com
 golang.org
 goldbetsports.com
 goldenmelody.com.tw
@@ -877,15 +903,18 @@ goodreaders.com
 goodreads.com
 goofind.com
 google-analytics.com
+google.cn
 google.co.jp
 google.com
 google.com.hk
 googleadservices.com
 googleapis.com
+googleartproject.com
 googlecode.com
 googledomains.com
 googledrive.com
 googleearth.com
+googlegroups.com
 googlehosted.com
 googlelabs.com
 googlemail.com
@@ -909,6 +938,7 @@ grandtrial.org
 graphis.ne.jp
 gravatar.com
 graylog2.org
+greasespot.net
 great-firewall.com
 great-roc.org
 greatfire.org
@@ -919,6 +949,7 @@ greatroc.org
 greatroc.tw
 greatzhonghua.org
 greenparty.org.tw
+greenpeace.com.tw
 greenvpn.net
 gs-discuss.com
 gstatic.com
@@ -930,6 +961,7 @@ gunsamerica.com
 guomin.us
 gutteruncensored.com
 gvm.com.tw
+gvt0.com
 gvt1.com
 gvt2.com
 gvt3.com
@@ -1028,6 +1060,7 @@ hsselite.com
 ht.ly
 htkou.net
 htl.li
+html5rocks.com
 htmldog.com
 htxt.it
 hua-yue.net
@@ -1080,6 +1113,7 @@ ifanqiang.com
 ifanr.com
 ifcss.org
 ifjc.org
+ift.tt
 ifttt.com
 ig.com.br
 igfw.net
@@ -1145,6 +1179,7 @@ ithome.com.tw
 itshidden.com
 itweet.net
 iu45.com
+iuhrdf.org
 iverycd.com
 ixquick.com
 izaobao.us
@@ -1153,6 +1188,7 @@ izles.net
 j.mp
 jackjia.com
 japan-whores.com
+javbus.com
 jayparkinsonmd.com
 jbtalks.cc
 jbtalks.com
@@ -1228,6 +1264,7 @@ labiennale.org
 ladbrokes.com
 lagranepoca.com
 lalulalu.com
+lamenhu.com
 laogai.org
 laomiu.com
 laoyang.info
@@ -1310,6 +1347,7 @@ lsxszzg.com
 lupm.org
 lushstories.com
 lvhai.org
+lvv2.com
 lyricsquote.com
 m-team.cc
 macrovpn.com
@@ -1369,6 +1407,7 @@ middle-way.net
 mihk.hk
 mihua.org
 mimivip.com
+mimivv.com
 minghui-a.org
 minghui-b.org
 minghui-school.org
@@ -1567,6 +1606,7 @@ olumpo.com
 olympicwatch.org
 omgili.com
 omnitalk.com
+omnitalk.org
 omy.sg
 on.cc
 onlylady.cn
@@ -1592,7 +1632,7 @@ orn.jp
 orzdream.com
 orzistic.org
 osfoora.com
-oulove.org
+osmdroid.net
 ourdearamy.com
 oursogo.com
 oursteps.com.au
@@ -1800,6 +1840,7 @@ retweetist.com
 retweetrank.com
 reuters.com
 revleft.com
+revocationcheck.com
 revver.com
 rfa.org
 rfachina.com
@@ -1811,6 +1852,7 @@ rhcloud.com
 rightster.com
 riku.me
 rileyguide.com
+ritouki.jp
 rlwlw.com
 rmjdw.com
 rnw.nl
@@ -1834,6 +1876,7 @@ rushbee.com
 rutube.ru
 ruyiseek.com
 rxhj.net
+s-dragon.org
 s1heng.com
 s8forum.com
 sacom.hk
@@ -1972,6 +2015,7 @@ sod.co.jp
 softether-download.com
 softether.co.jp
 softether.org
+softlayer.net
 softwarebychuck.com
 sogclub.com
 sogoo.org
@@ -1988,6 +2032,7 @@ sonidodelaesperanza.org
 sopcast.com
 sopcast.org
 sorting-algorithms.com
+soul-plus.net
 soumo.info
 soundcloud.com
 soundofhope.kr
@@ -2006,6 +2051,7 @@ speckleapp.com
 spencertipping.com
 spinejs.com
 spotify.com
+springboardplatform.com
 sproutcore.com
 squarespace.com
 ssh91.com
@@ -2056,6 +2102,7 @@ szetowah.org.hk
 t.co
 t35.com
 t66y.com
+t88.ca
 taa-usa.org
 tabtter.jp
 tacem.org
@@ -2069,6 +2116,7 @@ taiwankiss.com
 taiwannation.com
 taiwannation.com.tw
 taiwannews.com.tw
+taiwanonline.cc
 taiwantp.net
 taiwantt.org.tw
 taiwanus.net
@@ -2081,6 +2129,8 @@ taolun.info
 tap11.com
 taragana.com
 target.com
+taup.net
+taup.org.tw
 taweet.com
 tbpic.info
 tbsec.org
@@ -2213,6 +2263,7 @@ tsemtulku.com
 tsquare.tv
 tsunagarumon.com
 tsuru-bird.net
+tt-rss.org
 tt1069.com
 tttan.com
 ttv.com.tw
@@ -2375,9 +2426,12 @@ utom.us
 uushare.com
 uwants.com
 uwants.net
+uyghur-j.org
 uyghuramerican.org
+uyghurcanadiansociety.org
 uyghurcongress.org
 uygur.org
+uymaarip.com
 v-state.org
 v2ex.com
 v70.us
@@ -2458,6 +2512,7 @@ waselpro.com
 washeng.net
 watchmygf.net
 wattpad.com
+wav.tv
 wdf5.com
 wearn.com
 web2project.net
@@ -2704,6 +2759,7 @@ zozotown.com
 zshare.net
 zsrhao.com
 zuo.la
+zuobiao.me
 zuola.com
 zvereff.com
 zyzc9.com
