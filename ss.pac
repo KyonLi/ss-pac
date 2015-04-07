@@ -2713,6 +2713,7 @@ var domains = {
   "gaoming.net": 1, 
   "madmenunbuttoned.com": 1, 
   "laptoplockdown.com": 1, 
+  "piposay.com": 1, 
   "freakshare.com": 1, 
   "minghui-a.org": 1, 
   "vmixcore.com": 1, 
