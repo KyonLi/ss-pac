@@ -2225,6 +2225,7 @@ var domains = {
   "taiwanus.net": 1, 
   "seraph.me": 1, 
   "szetowah.org.hk": 1, 
+  "maturejp.com": 1, 
   "yuanming.net": 1, 
   "geekmanuals.com": 1, 
   "guancha.org": 1, 
