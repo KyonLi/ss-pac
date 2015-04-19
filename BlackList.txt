@@ -52,6 +52,7 @@
 9bis.net
 a-normal-day.com
 a5.com.ru
+aamacau.com
 abc.pp.ru
 ablwang.com
 aboluowang.com
@@ -160,6 +161,7 @@ avoision.com
 awardwinningfjords.com
 awflasher.com
 axureformac.com
+azubu.tv
 baby-kingdom.com
 babynet.com.hk
 backchina.com
@@ -624,6 +626,7 @@ efksoft.com
 efmoe.com
 eic-av.com
 electionsmeter.com
+elgoog.im
 elpais.com
 eltondisney.com
 emacsblog.org
@@ -852,6 +855,7 @@ getchu.com
 getcloudapp.com
 getfoxyproxy.org
 getfreedur.com
+getgom.com
 getiton.com
 getjetso.com
 getlantern.org
@@ -932,7 +936,6 @@ gospelherald.com
 gotw.ca
 gov.tw
 gowalla.com
-gpass1.com
 gradconnection.com
 grandtrial.org
 graphis.ne.jp
@@ -950,6 +953,7 @@ greatroc.tw
 greatzhonghua.org
 greenparty.org.tw
 greenpeace.com.tw
+greenpeace.org
 greenvpn.net
 gs-discuss.com
 gstatic.com
@@ -1081,6 +1085,7 @@ huping.net
 hutianyi.net
 hutong9.net
 hwinfo.com
+hxwq.org
 hyperrate.com
 hypeshell.com
 i-cable.com
@@ -1256,6 +1261,7 @@ kui.name
 kun.im
 kurtmunger.com
 kusocity.com
+kwcg.ca
 kwongwah.com.my
 kyohk.net
 kzeng.info
@@ -1327,7 +1333,6 @@ lockestek.com
 logbot.net
 logiqx.com
 logmike.com
-loiclemeur.com
 longhair.hk
 longtermly.net
 lookatgame.com
@@ -1344,6 +1349,7 @@ lsm.org
 lsmchinese.org
 lsmkorean.org
 lsxszzg.com
+ltn.com.tw
 lupm.org
 lushstories.com
 lvhai.org
@@ -1374,6 +1380,7 @@ mash.to
 matainja.com
 mathiew-badimon.com
 matsushimakaede.com
+maturejp.com
 maxgif.com
 mayimayi.com
 mcadforums.com
@@ -1711,6 +1718,7 @@ pilotmoon.com
 pin6.com
 ping.fm
 pinoy-n.com
+piposay.com
 piring.com
 pixelqi.com
 pixnet.in
@@ -1812,6 +1820,7 @@ radiotime.com
 radiovaticana.org
 radiovncr.com
 raidcall.com.tw
+raidtalk.com.tw
 rangzen.org
 ranxiang.com
 ranyunfei.com
@@ -1878,6 +1887,7 @@ ruyiseek.com
 rxhj.net
 s-dragon.org
 s1heng.com
+s4miniarchive.com
 s8forum.com
 sacom.hk
 sadpanda.us
@@ -2104,6 +2114,7 @@ t35.com
 t66y.com
 t88.ca
 taa-usa.org
+tablesgenerator.com
 tabtter.jp
 tacem.org
 tafaward.com
@@ -2121,6 +2132,7 @@ taiwantp.net
 taiwantt.org.tw
 taiwanus.net
 taiwanyes.com
+talk853.com
 tamiaode.tk
 tampabay.com
 tanc.org
@@ -2159,7 +2171,6 @@ thedw.us
 thefacebook.com
 thegatesnotes.com
 thegioitinhoc.vn
-theguardian.co
 thehots.info
 thehousenews.com
 thehun.net
@@ -2249,6 +2260,7 @@ tpi.org.tw
 transgressionism.org
 transparency.org
 travelinlocal.com
+treemall.com.tw
 trendsmap.com
 trialofccp.org
 tripod.com
@@ -2332,6 +2344,7 @@ twindexx.com
 twip.me
 twipple.jp
 twistar.cc
+twister.net.co
 twisternow.com
 twistory.net
 twit2d.com
@@ -2362,7 +2375,6 @@ twitturly.com
 twitvid.com
 twitzap.com
 twiyia.com
-twreg.info
 twstar.net
 twt.fm
 twt.tl
@@ -2372,7 +2384,6 @@ twttr.com
 twurl.nl
 twyac.org
 tycool.com
-tynsoe.org
 typepad.com
 tzangms.com
 ub0.cc
@@ -2410,6 +2421,7 @@ uploaded.to
 uploadstation.com
 urbanoutfitters.com
 url.com.tw
+url.tw
 urlborg.com
 urlparser.com
 us.to
