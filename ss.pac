@@ -201,7 +201,6 @@ var domains = {
   "gokbayrak.com": 1, 
   "plm.org.hk": 1, 
   "falsefire.com": 1, 
-  "v2ex.com": 1, 
   "fuckgfw.com": 1, 
   "topnews.in": 1, 
   "ihakka.net": 1, 
