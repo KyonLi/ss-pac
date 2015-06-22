@@ -453,6 +453,7 @@ conoyo.com
 contactmagazine.net
 convio.net
 cookingtothegoodlife.com
+cool18.com
 coolaler.com
 coolder.com
 coolloud.org.tw
@@ -471,6 +472,7 @@ ctfriend.net
 cthlo.github.io
 cts.com.tw
 cubicle17.com
+cuhk.edu.hk
 cuhkacs.org
 cuihua.org
 cuiweiping.net
@@ -531,6 +533,7 @@ dfanning.com
 dfas.mil
 diaoyuislands.org
 digg.com
+digiland.tw
 digitalnomadsproject.org
 diigo.com
 dipity.com
@@ -915,6 +918,7 @@ googleadservices.com
 googleapis.com
 googleartproject.com
 googlecode.com
+googlecommerce.com
 googledomains.com
 googledrive.com
 googleearth.com
@@ -979,6 +983,7 @@ hackthatphone.net
 hahlo.com
 hakkatv.org.tw
 hanunyi.com
+hao123.com
 hardsextube.com
 hasaowall.com
 have8.com
@@ -1221,7 +1226,6 @@ juliereyc.com
 junauza.com
 junefourth-20.net
 justfreevpn.com
-justin.tv
 justtristan.com
 juziyue.com
 jwmusic.org
@@ -1581,6 +1585,7 @@ npa.go.jp
 nps.gov
 nrk.no
 nsc.gov.tw
+ntd.tv
 ntdtv.ca
 ntdtv.co
 ntdtv.org
@@ -1745,6 +1750,7 @@ popyard.org
 porn.com
 porn2.com
 pornbase.org
+pornhd.com
 pornhub.com
 pornmm.net
 pornoxo.com
@@ -1752,6 +1758,7 @@ pornrapidshare.com
 pornstarclub.com
 porntube.com
 pornvisit.com
+portablevpn.nl
 pose.com
 post.ly
 post852.com
@@ -1793,6 +1800,7 @@ pureconcepts.net
 purepdf.com
 purevpn.com
 putlocker.com
+putty.org
 pwned.com
 python.com
 python.com.tw
@@ -1885,6 +1893,7 @@ rushbee.com
 rutube.ru
 ruyiseek.com
 rxhj.net
+s-cute.com
 s-dragon.org
 s1heng.com
 s4miniarchive.com
@@ -2096,6 +2105,7 @@ sun1911.com
 suoluo.org
 supertweet.net
 surfeasy.com.au
+surrenderat20.net
 svwind.com
 sweux.com
 swift-tools.net
@@ -2662,6 +2672,7 @@ xinshijue.com
 xinyubbs.net
 xizang-zhiye.org
 xjp.cc
+xlfmwz.info
 xml-training-guide.com
 xmovies.com
 xmusic.fm
