@@ -2470,6 +2470,7 @@ var domains = {
   "blockcn.com": 1, 
   "prayforchina.net": 1, 
   "gmhz.org": 1, 
+  "uighur.nl": 1, 
   "spotify.com": 1, 
   "gunsamerica.com": 1, 
   "epochtimes.jp": 1, 
