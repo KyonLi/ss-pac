@@ -2146,6 +2146,7 @@ var domains = {
   "deviantart.net": 1, 
   "reflectivecode.com": 1, 
   "freechal.com": 1, 
+  "nuuvem.com": 1, 
   "liansi.org": 1, 
   "tt1069.com": 1, 
   "6park.com": 1, 
