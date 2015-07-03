@@ -934,6 +934,7 @@ var domains = {
   "minghui-school.org": 1, 
   "qiwen.lu": 1, 
   "stupidvideos.com": 1, 
+  "club1069.com": 1, 
   "mingpaosf.com": 1, 
   "trouw.nl": 1, 
   "hongzhi.li": 1, 
