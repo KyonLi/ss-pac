@@ -24,6 +24,7 @@ var domains = {
   "worldcat.org": 1, 
   "nyt.com": 1, 
   "uberproxy.net": 1, 
+  "stepmania.com": 1, 
   "getgom.com": 1, 
   "givemesomethingtoread.com": 1, 
   "yahoo.com.tw": 1, 
