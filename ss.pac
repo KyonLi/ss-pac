@@ -2282,6 +2282,7 @@ var domains = {
   "scribd.com": 1, 
   "unblocksit.es": 1, 
   "taragana.com": 1, 
+  "dcard.tw": 1, 
   "kl.am": 1, 
   "fscked.org": 1, 
   "17t17p.com": 1, 
