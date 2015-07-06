@@ -588,6 +588,7 @@ var domains = {
   "coolloud.org.tw": 1, 
   "betvictor.com": 1, 
   "wikimedia.org": 1, 
+  "alien-ufos.com": 1, 
   "qixianglu.cn": 1, 
   "aculo.us": 1, 
   "bitly.com": 1, 
