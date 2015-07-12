@@ -2759,6 +2759,7 @@ var domains = {
   "freeyoutubeproxy.net": 1, 
   "storagenewsletter.com": 1, 
   "chromeexperiments.com": 1, 
+  "telegram.org": 1, 
   "guishan.org": 1, 
   "christusrex.org": 1, 
   "syncback.com": 1, 
