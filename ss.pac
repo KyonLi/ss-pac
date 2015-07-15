@@ -159,6 +159,7 @@ var domains = {
   "shangfang.org": 1, 
   "hkzone.org": 1, 
   "samsoff.es": 1, 
+  "hybrid-analysis.com": 1, 
   "dxiong.com": 1, 
   "twip.me": 1, 
   "zannel.com": 1, 
