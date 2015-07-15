@@ -2371,7 +2371,6 @@ var domains = {
   "sfileydy.com": 1, 
   "nanyangpost.com": 1, 
   "python.com": 1, 
-  "xvedios.com": 1, 
   "azubu.tv": 1, 
   "classicalguitarblog.net": 1, 
   "buugaa.com": 1, 
