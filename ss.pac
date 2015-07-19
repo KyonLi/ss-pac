@@ -11,6 +11,7 @@ var domains = {
   "transparency.org": 1, 
   "mingpaovan.com": 1, 
   "wikinews.org": 1, 
+  "passion.com": 1, 
   "joachims.org": 1, 
   "maiio.net": 1, 
   "idv.tw": 1, 
