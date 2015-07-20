@@ -2633,6 +2633,7 @@ var domains = {
   "penchinese.com": 1, 
   "everyday-carry.com": 1, 
   "sitetag.us": 1, 
+  "keepvid.com": 1, 
   "dscn.info": 1, 
   "singtao.com": 1, 
   "idemocracy.asia": 1, 
