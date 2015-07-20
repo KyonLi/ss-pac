@@ -2721,6 +2721,7 @@ var domains = {
   "228.net.tw": 1, 
   "myspace.com": 1, 
   "andfaraway.net": 1, 
+  "kiwi.kz": 1, 
   "weisuo.ws": 1, 
   "cdp2006.org": 1, 
   "xyy69.info": 1, 
