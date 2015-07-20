@@ -475,6 +475,7 @@ var domains = {
   "apetube.com": 1, 
   "biantailajiao.com": 1, 
   "assembla.com": 1, 
+  "chrdnet.com": 1, 
   "lookatgame.com": 1, 
   "philly.com": 1, 
   "basetimesheightdividedby2.com": 1, 
