@@ -852,6 +852,7 @@ var domains = {
   "vimeo.com": 1, 
   "grandtrial.org": 1, 
   "holyspiritspeaks.org": 1, 
+  "ninecommentaries.com": 1, 
   "2008xianzhang.info": 1, 
   "xmovies.com": 1, 
   "archive.is": 1, 
