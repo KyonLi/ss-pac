@@ -668,6 +668,7 @@ var domains = {
   "slickvpn.com": 1, 
   "stuffimreading.com": 1, 
   "tsuru-bird.net": 1, 
+  "64museum.org": 1, 
   "yzzk.com": 1, 
   "helplinfen.com": 1, 
   "lester850.info": 1, 
