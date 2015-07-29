@@ -121,6 +121,7 @@ var domains = {
   "fc2web.com": 1, 
   "greatfirewallofchina.org": 1, 
   "lagranepoca.com": 1, 
+  "workersthebig.net": 1, 
   "ministrybooks.org": 1, 
   "paljorpublications.com": 1, 
   "sokamonline.com": 1, 
