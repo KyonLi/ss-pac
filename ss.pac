@@ -1255,6 +1255,7 @@ var domains = {
   "enewstree.com": 1, 
   "jqueryui.com": 1, 
   "mcadforums.com": 1, 
+  "wsgzao.github.io": 1, 
   "freegao.com": 1, 
   "twibs.com": 1, 
   "ccue.com": 1, 
