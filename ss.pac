@@ -1501,6 +1501,7 @@ var domains = {
   "mcfog.com": 1, 
   "new-akiba.com": 1, 
   "lefora.com": 1, 
+  "gvt3.com": 1, 
   "ntdtv.ru": 1, 
   "gaeproxy.com": 1, 
   "wisevid.com": 1, 
