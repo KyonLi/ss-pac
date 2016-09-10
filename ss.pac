@@ -1434,6 +1434,7 @@ var domains = {
   "webrtc.org": 1, 
   "mp3ye.eu": 1, 
   "9bis.com": 1, 
+  "kyoyue.com": 1, 
   "ssl443.org": 1, 
   "soulcaliburhentai.net": 1, 
   "time.com": 1, 
