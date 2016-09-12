@@ -2322,6 +2322,7 @@ var domains = {
   "jungleheart.com": 1, 
   "instagram.com": 1, 
   "mitbbs.com": 1, 
+  "h5galgame.me": 1, 
   "trendsmap.com": 1, 
   "upholdjustice.org": 1, 
   "kakao.com": 1, 
