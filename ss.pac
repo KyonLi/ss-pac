@@ -219,6 +219,7 @@ var domains = {
   "ieasynews.net": 1, 
   "esmtp.biz": 1, 
   "googleblog.com": 1, 
+  "onion.link": 1, 
   "lsmwebcast.com": 1, 
   "openleaks.org": 1, 
   "asahichinese.com": 1, 
