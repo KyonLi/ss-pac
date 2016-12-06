@@ -2495,6 +2495,7 @@ var domains = {
   "vid.me": 1, 
   "linuxtoy.org": 1, 
   "addictedtocoffee.de": 1, 
+  "nytcn.me": 1, 
   "hmvdigital.com": 1, 
   "getchu.com": 1, 
   "geekerhome.com": 1, 
