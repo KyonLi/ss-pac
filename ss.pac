@@ -3595,6 +3595,7 @@ var domains = {
   "cn-proxy.com": 1, 
   "geohot.com": 1, 
   "churchinhongkong.org": 1, 
+  "h528.com": 1, 
   "hola.org": 1, 
   "voatibetanenglish.com": 1, 
   "dwnews.net": 1, 
