@@ -1465,6 +1465,7 @@ var domains = {
   "ohchr.org": 1, 
   "woeser.com": 1, 
   "weijingsheng.org": 1, 
+  "cq99.us": 1, 
   "hanunyi.com": 1, 
   "tinychat.com": 1, 
   "lhakar.org": 1, 
