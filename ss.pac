@@ -638,6 +638,7 @@ var domains = {
   "cpj.org": 1, 
   "qgirl.com.tw": 1, 
   "arlingtoncemetery.mil": 1, 
+  "jinroukong.com": 1, 
   "google.ws": 1, 
   "fw.cm": 1, 
   "tibetchild.org": 1, 
