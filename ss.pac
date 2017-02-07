@@ -422,6 +422,7 @@ var domains = {
   "mash.to": 1, 
   "derekhsu.homeip.net": 1, 
   "ifanqiang.com": 1, 
+  "youtubegaming.com": 1, 
   "eisbb.com": 1, 
   "voacantonese.com": 1, 
   "wokar.org": 1, 
