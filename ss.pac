@@ -463,6 +463,7 @@ var domains = {
   "china18.org": 1, 
   "chromeadblock.com": 1, 
   "bell.wiki": 1, 
+  "hkci.org.hk": 1, 
   "tibetonline.com": 1, 
   "bestvpnserver.com": 1, 
   "gardennetworks.org": 1, 
