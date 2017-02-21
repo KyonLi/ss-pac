@@ -3580,6 +3580,7 @@ var domains = {
   "nighost.org": 1, 
   "sejie.com": 1, 
   "upornia.com": 1, 
+  "shadowsocks.asia": 1, 
   "eucasino.com": 1, 
   "faydao.com": 1, 
   "nobel.se": 1, 
