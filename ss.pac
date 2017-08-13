@@ -3660,6 +3660,7 @@ var domains = {
   "k-doujin.net": 1, 
   "ns01.biz": 1, 
   "lpsg.com": 1, 
+  "quantumbooter.net": 1, 
   "h-china.org": 1, 
   "goo.gl": 1, 
   "letou.com": 1, 
