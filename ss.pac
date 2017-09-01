@@ -1686,6 +1686,7 @@ var domains = {
   "new-akiba.com": 1, 
   "2waky.com": 1, 
   "xcritic.com": 1, 
+  "allgravure.com": 1, 
   "sowers.org.hk": 1, 
   "luxebc.com": 1, 
   "yzzk.com": 1, 
