@@ -1934,6 +1934,7 @@ var domains = {
   "cclife.ca": 1, 
   "simbolostwitter.com": 1, 
   "googlezip.net": 1, 
+  "giantessnight.com": 1, 
   "sonicbbs.cc": 1, 
   "wikivoyage.org": 1, 
   "uhdwallpapers.org": 1, 
