@@ -568,6 +568,7 @@ var domains = {
   "dharmakara.net": 1, 
   "vporn.com": 1, 
   "avmoo.net": 1, 
+  "myanniu.com": 1, 
   "isaacmao.com": 1, 
   "dalailamaprotesters.info": 1, 
   "slandr.net": 1, 
