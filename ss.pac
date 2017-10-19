@@ -3267,6 +3267,7 @@ var domains = {
   "effers.com": 1, 
   "hidden-advent.org": 1, 
   "woolyss.com": 1, 
+  "singtaousa.com": 1, 
   "presentationzen.com": 1, 
   "hut2.ru": 1, 
   "communitychoicecu.com": 1, 
