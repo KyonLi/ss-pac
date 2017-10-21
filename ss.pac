@@ -4147,6 +4147,7 @@ var domains = {
   "dafahao.com": 1, 
   "urbansurvival.com": 1, 
   "sherabgyaltsen.com": 1, 
+  "paradisehill.cc": 1, 
   "chinainterimgov.org": 1, 
   "imb.org": 1, 
   "epochtimes-bg.com": 1, 
