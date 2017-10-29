@@ -44,6 +44,7 @@ var domains = {
   "apkmonk.com": 1, 
   "uberproxy.net": 1, 
   "persiankitty.com": 1, 
+  "crossvpn.net": 1, 
   "zim.vn": 1, 
   "pwned.com": 1, 
   "cmule.com": 1, 
