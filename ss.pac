@@ -500,6 +500,7 @@ var domains = {
   "njuice.com": 1, 
   "akamaistream.net": 1, 
   "oclp.hk": 1, 
+  "mailchimp.com": 1, 
   "wapedia.mobi": 1, 
   "search.com": 1, 
   "gooday.xyz": 1, 
