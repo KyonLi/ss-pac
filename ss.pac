@@ -4779,6 +4779,7 @@ var domains = {
   "dalailamafellows.org": 1, 
   "seraph.me": 1, 
   "chuang-yen.org": 1, 
+  "sosreader.com": 1, 
   "organiccrap.com": 1, 
   "china-review.com.ua": 1, 
   "nodesnoop.com": 1, 
