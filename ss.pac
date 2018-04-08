@@ -1743,7 +1743,6 @@ var domains = {
   "eromangadouzin.com": 1, 
   "christianstudy.com": 1, 
   "ai-wen.net": 1, 
-  "ddns.net": 1, 
   "tbthouston.org": 1, 
   "dragonsprings.org": 1, 
   "youtube.com": 1, 
