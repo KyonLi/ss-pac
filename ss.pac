@@ -941,6 +941,7 @@ var domains = {
   "bjzc.org": 1, 
   "quitccp.net": 1, 
   "nexton-net.jp": 1, 
+  "bird.so": 1, 
   "entermap.com": 1, 
   "startuplivingchina.com": 1, 
   "tsunagarumon.com": 1, 
